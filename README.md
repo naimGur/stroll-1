@@ -1,4 +1,4 @@
-# STROLL TASK - 1
+# STROLL - 1
 
 The system design can have many improvements from optimizing the data read to distributing it to the user over a network. I wanted to narrow the problem by overviewing the system from scalability and data integrity perspectives. Extracted two main flows which must be handled well to serve the amount of request mentioned on the task.
 
